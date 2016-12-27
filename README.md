@@ -35,28 +35,48 @@ bench. The test bench tries to multiply 9x3 and expects a result of 27. This is 
 
 Within the imports directory...
 ALU.v -- Taken from Lab 7.
-Calc_CU.v -- Taken from Lab 8.
-Calc_CU_simple.v --Taken from Lab 7.
-DP.v --Taken from Lab 7, provided by Donald Hung.
-DivCalc.v -- Taken from Lab 8.
-FSMCalc.v -- Taken from Lab 7.
-MUX2.v -- Taken from Lab 7, provided by Donald Hung.
-RF.v -- Taken from Lab 7, provided by Donald Hung.
-b27.v -- Taken from Lab ?, inspired by Donald Hung.
-bigmux.v --Taken from Lab 8.
-bigshiftdreg.v --Taken from Lab 8.
-clk_gen.v -- Taken from Lab 1, provided by Donald Hung.
-comparator.v --Taken from Lab 8.
-datapath.v --Taken from Lab 8.
-debounce2.v --Taken from Lab 4, provided by Donald Hung.
-dreg.v --Taken from Lab 8.
-led_mux.v -- Taken from Lab 1, provided by Donald Hung.
-mux1.v -- Taken from Lab 7.
-smallmux.v -- Taken from Lab 8.
-smallshiftdreg.v -- Taken from Lab 8.
-subtractor.v -- Taken from Lab 8.
-ud_counter.v --Taken from Lab 8.
 
+Calc_CU.v -- Taken from Lab 8.
+
+Calc_CU_simple.v --Taken from Lab 7.
+
+DP.v --Taken from Lab 7, provided by Donald Hung.
+
+DivCalc.v -- Taken from Lab 8.
+
+FSMCalc.v -- Taken from Lab 7.
+
+MUX2.v -- Taken from Lab 7, provided by Donald Hung.
+
+RF.v -- Taken from Lab 7, provided by Donald Hung.
+
+b27.v -- Taken from Lab ?, inspired by Donald Hung.
+
+bigmux.v --Taken from Lab 8.
+
+bigshiftdreg.v --Taken from Lab 8.
+
+clk_gen.v -- Taken from Lab 1, provided by Donald Hung.
+
+comparator.v --Taken from Lab 8.
+
+datapath.v --Taken from Lab 8.
+
+debounce2.v --Taken from Lab 4, provided by Donald Hung.
+
+dreg.v --Taken from Lab 8.
+
+led_mux.v -- Taken from Lab 1, provided by Donald Hung.
+
+mux1.v -- Taken from Lab 7.
+
+smallmux.v -- Taken from Lab 8.
+
+smallshiftdreg.v -- Taken from Lab 8.
+
+subtractor.v -- Taken from Lab 8.
+
+ud_counter.v --Taken from Lab 8.
 
 Within the new directory...
 
