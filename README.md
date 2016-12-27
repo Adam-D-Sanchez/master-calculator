@@ -11,14 +11,14 @@ The code for all files with the exception of the constraint file is written in V
 
 By directory:
 
-========================================constrs_1/new========================================
+===================================constrs_1/new===================================
 
 SystemCalc_Con.xdc-- This is a file written to make it possible to use the verilog code with the Digilent/Xilinx FPGA. This specifies
 which inputs and outputs will correspond to a pin on the actual FPGA board to validate the design.
 
 
 
-========================================sim_1/new========================================
+===================================sim_1/new===================================
 
 System_Calc_tb.v -- This is a testbench written to test every possible combination of opcode, operand, and results. Values are placed into
 the instantiated calculator module, then the clock is run until the result appears, at which point the test bench checks the values at the
@@ -31,7 +31,7 @@ stops immediately and prints out an error.
 topdatapath_tb.v -- This is a testbench written to test the datapath. Output signals from the control unit are simulated in the test
 bench. The test bench tries to multiply 9x3 and expects a result of 27. This is of course in binary.
 
-========================================sim_1/new========================================
+===================================sim_1/new===================================
 
 Within the imports directory...
 ALU.v -- Taken from Lab 7.
